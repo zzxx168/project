@@ -1,0 +1,83 @@
+﻿<script>
+    $(".member").addClass("active");
+</script>
+
+@model List<project.Models.FoodProduct>
+
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="heading-title text-center">
+                    <br />
+                    <br />
+                    <br />
+                    <h2>會員註冊</h2>
+                </div>
+            </div>
+        </div>
+        <div id="error" style="color:red">@TempData["message"]</div>
+        @using (Html.BeginForm("Member", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            <div class="row special-list">
+                @*左邊會員註冊資料 *@
+                @* E-mail/帳號，把value的值寫進會員的資料表 *@
+                <div class="col-md-6 col-sm-6 special-grid " style="position:center">
+                    <div class="member-login-info">
+                        <h2>E-mail/帳號</h2>
+                        <input type="text" id="Email" name="Email" required="" class="member-login-info-text" placeholder="電子信箱(EX.xxx@gmail.com)">
+                    </div>
+                    @* 會員姓名 *@
+                    <div class="member-login-info">
+                        <h2>姓名</h2>
+                        <input type="text" id="UserName" name="UserName" required="" class="member-login-info-text" placeholder="請輸入中文全名">
+                    </div>
+
+                    @* 密碼，把value的值寫進會員的資料表 *@
+                    <div class="member-login-info">
+                        <h2>密碼</h2>
+                        <input type="password" id="Password" name="Password" value="" required="" pattern="[A-Za-z0-9]{6,20}" maxlength="20" title="由英文或數字所組成的6~20字元" onchange="$('#confirm').attr('pattern',$(this).val())" class="member-login-info-text" placeholder="由英文或數字所組成的6~20字元">
+                    </div>
+                    @* 確認密碼，把value的值寫進會員的資料表 *@
+                    <div class="member-login-info">
+                        <h2>確認密碼</h2>
+                        <input type="password" id="confirm" name="confirm" value="" required="" class="member-login-info-text" placeholder="再次確認密碼">
+                    </div>
+                    @* 手機號碼，把value的值寫進會員的資料表 *@
+                    <div class="member-login-info">
+                        <h2>手機號碼</h2>
+                        <input type="text" id="PhoneNum" name="PhoneNum" value="" required="" pattern="[0-9]{10}" class="member-login-info-text onlyNumber" placeholder="號碼格式 - 0912345678">
+                    </div>
+                    @* 生日，把value的值寫進會員的資料表 *@
+                    <div class="member-login-info">
+                        <h2>生日</h2>
+                        <input type="date" id="BirthDate" name="BirthDate" value="" required="" class="member-login-info-text onlyNumber" placeholder="生日格式（月/日）- 01/01">
+                    </div>
+                    @* 地址，把value的值寫進會員的資料表 *@
+                    <div class="member-login-info">
+                        <h2>地址</h2>
+                        <input type="text" id="Address" name="Address" value="" required="" class="member-login-info-text" placeholder="地址格式 - 406台中市北屯區……">
+                    </div>
+                    <div class="member-login-info">
+                        @*隱私權個資閱讀要判斷是否有勾選(下面的checked） *@
+                        <label>
+                            <input type="checkbox" name="checkbox" id="checkbox" checked="">　我已詳細閱讀 <a style="color:purple" href="Terms" target="_blank">隱私權條款</a>，充分了解並同意。　
+                        </label>
+                        @* 確認註冊按鈕 *@
+                        <input class="btn btn-success" type="submit" name="send" required="" id="send" value="確認註冊">
+                    </div>
+                    @*右邊放圖 *@
+                <div class="col-md-6 col-sm-3 special-grid " style="position:fixed">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+
+                    <img style="display:block; width:250%; height:450%" class="img-responsive" src="~/images/上菜了2.jpg" alt="image" />
+                </div>
+                </div>
+            </div>
+            }
+        </div>
+</div>

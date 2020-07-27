@@ -1,0 +1,29 @@
+﻿@{
+    //取得當前購物車所有內容
+    var currentCart = Carts.Models.Cart.Operation.GetCurrentCart();
+}
+<a class="nav-link" href="#">
+@*<li class="nav-item dropdown">*@
+<a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">
+    @String.Format("共{0}元 ({1})", currentCart.TotalAmount-currentCart.TotalShip, currentCart.Count)
+</a>
+<div class="dropdown-menu" aria-labelledby="dropdown-a">
+    @if (currentCart.Count > 0)
+    {
+        foreach (var cartitem in currentCart)
+        {
+
+            <a class="dropdown-item">@cartitem.Name <span>@cartitem.Price 元 X @cartitem.Quantity </span></a>
+        }
+
+        <a class="btn btn-default text-center" href="@Url.Action("Index","Order")">結帳去</a>
+    }
+    else
+    {
+        <a>無商品</a>
+    }
+</div>
+@* </li>*@
+
+
+</a>

@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<!-- Basic -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Site Metas -->
+    <title>Welcome</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="~/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="~/images/apple-touch-icon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/Content/css/bootstrap.min.css">
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="~/Content/css/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="~/Content/css/responsive.css">
+    <!-- 另一個版型的link -->
+    @RenderSection("link", required: false)
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/Content/css/custom.css">
+    <!-- Member CSS -->
+    <link rel="stylesheet" href="~/Content/css/member.css">
+    <link rel="stylesheet" href="~/Content/css/member-login.css">
+
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    @* 購物車Js *@
+    <script type="text/javascript">
+        //網頁載入完成時執行之function
+        $(document).ready(function () {
+            console.log("ready!");
+        });
+
+        //加入編號為productId的商品進購物車
+        function AddToCart(productId, addQuantity) {
+            if (addQuantity === undefined)
+                addQuantity = 1;
+            if (addQuantity == "")
+                addQuantity = 1;
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("AddToCart", "Cart")',
+                data: { id: productId, quantity: addQuantity }
+            })
+                .done(function (msg) {
+                // console.log(msg);
+                //將回傳的購物車頁面 填入 li#Cart
+                  $('li#Cart').html(msg);
+
+            });
+        //window.location.reload();
+            //event.preventDefault();
+    }
+
+    </script>
+</head>
+
+<body>
+    <!-- Start header -->
+    <header class="top-navbar" style="position: relative;z-index: 5;">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="~/Home/Index">
+                    <img src="~/images/logo4.png" alt="" />
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars-rs-food" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbars-rs-food">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item home"><a class="nav-link" href="~/Home/Index">首頁</a></li>
+                        <li class="nav-item menu"><a class="nav-link" href="~/Home/Menu">找食材</a></li>
+                        <li class="nav-item vegetables"><a class="nav-link" href="~/Home/Vegetables">來點菜</a></li>
+                        <li class="nav-item special"><a class="nav-link" href="~/Home/Special_LowGi">特餐介紹</a></li>
+                        <li class="nav-item about"><a class="nav-link" href="~/Home/About">關於我們</a></li>
+                        <p></p>
+                        <p></p>
+                        <li class="nav-item dropdown" id="Cart">
+                            @{
+                                if (Session["login"] == null)
+                                {
+                                    <a class="nav-link" href="~/Home/myLogin">我的菜籃</a>;
+                                }
+                                else
+                                {
+                                    @Html.Partial("_CartPartial");
+                                }
+                            }
+                        </li>
+                        <li class="nav-item dropdown">
+                            @{
+                                if (Session["login"] == null)
+                                {
+                                    <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">登入 / 註冊</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdown-a">
+
+                                        <a class="dropdown-item" href="~/Home/myLogin">會員登入</a>
+                                        <a class="dropdown-item" href="~/Home/member">會員註冊</a>
+                                    </div>
+                                }
+                                else
+                                {
+                                    @* 65-68行數的程式，在會員登入（myLogin.cshtml）設一個bool值做判斷，登入後改成下面內容 *@
+                                    <a class="nav-link dropdown-toggle" href="#" id="dropdown-a" data-toggle="dropdown">會員中心</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdown-a">
+                                        <a class="dropdown-item" href="~/Home/memberData">會員資料</a>
+                                        <a class="dropdown-item" href="~/Home/member">訂單查詢</a>
+                                        <a class="dropdown-item" href="~/Home/myLogOff">會員登出</a>
+                                    </div>
+                                }
+
+                            }
+
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- End header -->
+    @RenderBody()
+
+
+    <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+
+    <!-- ALL JS FILES -->
+    <script src="~/Scripts/js/jquery-3.2.1.min.js"></script>
+    <script src="~/Scripts/js/popper.min.js"></script>
+    <script src="~/Scripts/js/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+    <script src="~/Scripts/js/jquery.superslides.min.js"></script>
+    <script src="~/Scripts/js/images-loded.min.js"></script>
+    <script src="~/Scripts/js/isotope.min.js"></script>
+    <script src="~/Scripts/js/baguetteBox.min.js"></script>
+    <script src="~/Scripts/js/form-validator.min.js"></script>
+    <script src="~/Scripts/js/contact-form-script.js"></script>
+    <script src="~/Scripts/js/custom.js"></script>
+    @RenderSection("script", required: false)
+</body>
+</html>

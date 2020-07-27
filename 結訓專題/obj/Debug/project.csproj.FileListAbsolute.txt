@@ -1,0 +1,1542 @@
+C:\Users\Peter\Desktop\專題版面\project\bin\project.dll.config
+C:\Users\Peter\Desktop\專題版面\project\bin\project.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\project.pdb
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\csc.exe
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\csc.exe.config
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\csc.rsp
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\csi.exe
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\csi.exe.config
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\csi.rsp
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.AppContext.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Console.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Net.Http.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\vbc.exe
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\vbc.exe.config
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\vbc.rsp
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Peter\Desktop\專題版面\project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Peter\Desktop\專題版面\project\bin\Antlr3.Runtime.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\Newtonsoft.Json.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Helpers.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Mvc.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Optimization.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Razor.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.WebPages.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\WebGrease.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Helpers.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Mvc.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Optimization.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.Razor.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.WebPages.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\Newtonsoft.Json.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\Antlr3.Runtime.pdb
+C:\Users\Peter\Desktop\專題版面\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Peter\Desktop\專題版面\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Peter\Desktop\專題版面\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\專題版面\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Peter\Desktop\專題版面\project\obj\Debug\project.dll
+C:\Users\Peter\Desktop\專題版面\project\obj\Debug\project.pdb
+E:\專題版面\project\bin\project.dll.config
+E:\專題版面\project\bin\project.dll
+E:\專題版面\project\bin\project.pdb
+E:\專題版面\project\bin\roslyn\csc.exe
+E:\專題版面\project\bin\roslyn\csc.exe.config
+E:\專題版面\project\bin\roslyn\csc.rsp
+E:\專題版面\project\bin\roslyn\csi.exe
+E:\專題版面\project\bin\roslyn\csi.exe.config
+E:\專題版面\project\bin\roslyn\csi.rsp
+E:\專題版面\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\專題版面\project\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\專題版面\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\專題版面\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\專題版面\project\bin\roslyn\Microsoft.Managed.Core.targets
+E:\專題版面\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\專題版面\project\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\專題版面\project\bin\roslyn\System.AppContext.dll
+E:\專題版面\project\bin\roslyn\System.Collections.Immutable.dll
+E:\專題版面\project\bin\roslyn\System.Console.dll
+E:\專題版面\project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\專題版面\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\專題版面\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\專題版面\project\bin\roslyn\System.Globalization.Calendars.dll
+E:\專題版面\project\bin\roslyn\System.IO.Compression.dll
+E:\專題版面\project\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\專題版面\project\bin\roslyn\System.IO.FileSystem.dll
+E:\專題版面\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\專題版面\project\bin\roslyn\System.Net.Http.dll
+E:\專題版面\project\bin\roslyn\System.Net.Sockets.dll
+E:\專題版面\project\bin\roslyn\System.Reflection.Metadata.dll
+E:\專題版面\project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\專題版面\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\專題版面\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\專題版面\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\專題版面\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\專題版面\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\專題版面\project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\專題版面\project\bin\roslyn\System.ValueTuple.dll
+E:\專題版面\project\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\專題版面\project\bin\roslyn\System.Xml.XmlDocument.dll
+E:\專題版面\project\bin\roslyn\System.Xml.XPath.dll
+E:\專題版面\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\專題版面\project\bin\roslyn\vbc.exe
+E:\專題版面\project\bin\roslyn\vbc.exe.config
+E:\專題版面\project\bin\roslyn\vbc.rsp
+E:\專題版面\project\bin\roslyn\VBCSCompiler.exe
+E:\專題版面\project\bin\roslyn\VBCSCompiler.exe.config
+E:\專題版面\project\bin\Antlr3.Runtime.dll
+E:\專題版面\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\專題版面\project\bin\Microsoft.Web.Infrastructure.dll
+E:\專題版面\project\bin\Newtonsoft.Json.dll
+E:\專題版面\project\bin\System.Web.Helpers.dll
+E:\專題版面\project\bin\System.Web.Mvc.dll
+E:\專題版面\project\bin\System.Web.Optimization.dll
+E:\專題版面\project\bin\System.Web.Razor.dll
+E:\專題版面\project\bin\System.Web.WebPages.Deployment.dll
+E:\專題版面\project\bin\System.Web.WebPages.dll
+E:\專題版面\project\bin\System.Web.WebPages.Razor.dll
+E:\專題版面\project\bin\WebGrease.dll
+E:\專題版面\project\bin\System.Web.Helpers.xml
+E:\專題版面\project\bin\System.Web.Mvc.xml
+E:\專題版面\project\bin\System.Web.Optimization.xml
+E:\專題版面\project\bin\System.Web.Razor.xml
+E:\專題版面\project\bin\System.Web.WebPages.xml
+E:\專題版面\project\bin\System.Web.WebPages.Deployment.xml
+E:\專題版面\project\bin\System.Web.WebPages.Razor.xml
+E:\專題版面\project\bin\Newtonsoft.Json.xml
+E:\專題版面\project\bin\Antlr3.Runtime.pdb
+E:\專題版面\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\專題版面\project\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\專題版面\project\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\專題版面\project\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\專題版面\project\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\專題版面\project\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\專題版面\project\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\專題版面\project\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\專題版面\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\專題版面\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\專題版面\project\obj\Debug\project.csproj.CopyComplete
+E:\專題版面\project\obj\Debug\project.dll
+E:\專題版面\project\obj\Debug\project.pdb
+E:\專題版面\project\bin\EntityFramework.dll
+E:\專題版面\project\bin\EntityFramework.SqlServer.dll
+E:\專題版面\project\bin\EntityFramework.xml
+E:\專題版面\project\bin\EntityFramework.SqlServer.xml
+E:\專題版面\project\bin\zh-Hant\EntityFramework.resources.dll
+J:\專題版面\project\bin\project.dll.config
+J:\專題版面\project\bin\project.dll
+J:\專題版面\project\bin\project.pdb
+J:\專題版面\project\bin\roslyn\csc.exe
+J:\專題版面\project\bin\roslyn\csc.exe.config
+J:\專題版面\project\bin\roslyn\csc.rsp
+J:\專題版面\project\bin\roslyn\csi.exe
+J:\專題版面\project\bin\roslyn\csi.exe.config
+J:\專題版面\project\bin\roslyn\csi.rsp
+J:\專題版面\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\專題版面\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\專題版面\project\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\專題版面\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\專題版面\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\專題版面\project\bin\roslyn\Microsoft.Managed.Core.targets
+J:\專題版面\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\專題版面\project\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\專題版面\project\bin\roslyn\System.AppContext.dll
+J:\專題版面\project\bin\roslyn\System.Collections.Immutable.dll
+J:\專題版面\project\bin\roslyn\System.Console.dll
+J:\專題版面\project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\專題版面\project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\專題版面\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\專題版面\project\bin\roslyn\System.Globalization.Calendars.dll
+J:\專題版面\project\bin\roslyn\System.IO.Compression.dll
+J:\專題版面\project\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\專題版面\project\bin\roslyn\System.IO.FileSystem.dll
+J:\專題版面\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\專題版面\project\bin\roslyn\System.Net.Http.dll
+J:\專題版面\project\bin\roslyn\System.Net.Sockets.dll
+J:\專題版面\project\bin\roslyn\System.Reflection.Metadata.dll
+J:\專題版面\project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\專題版面\project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\專題版面\project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\專題版面\project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\專題版面\project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\專題版面\project\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\專題版面\project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\專題版面\project\bin\roslyn\System.ValueTuple.dll
+J:\專題版面\project\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\專題版面\project\bin\roslyn\System.Xml.XmlDocument.dll
+J:\專題版面\project\bin\roslyn\System.Xml.XPath.dll
+J:\專題版面\project\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\專題版面\project\bin\roslyn\vbc.exe
+J:\專題版面\project\bin\roslyn\vbc.exe.config
+J:\專題版面\project\bin\roslyn\vbc.rsp
+J:\專題版面\project\bin\roslyn\VBCSCompiler.exe
+J:\專題版面\project\bin\roslyn\VBCSCompiler.exe.config
+J:\專題版面\project\bin\Antlr3.Runtime.dll
+J:\專題版面\project\bin\EntityFramework.dll
+J:\專題版面\project\bin\EntityFramework.SqlServer.dll
+J:\專題版面\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\專題版面\project\bin\Microsoft.Web.Infrastructure.dll
+J:\專題版面\project\bin\Newtonsoft.Json.dll
+J:\專題版面\project\bin\System.Web.Helpers.dll
+J:\專題版面\project\bin\System.Web.Mvc.dll
+J:\專題版面\project\bin\System.Web.Optimization.dll
+J:\專題版面\project\bin\System.Web.Razor.dll
+J:\專題版面\project\bin\System.Web.WebPages.Deployment.dll
+J:\專題版面\project\bin\System.Web.WebPages.dll
+J:\專題版面\project\bin\System.Web.WebPages.Razor.dll
+J:\專題版面\project\bin\WebGrease.dll
+J:\專題版面\project\bin\EntityFramework.xml
+J:\專題版面\project\bin\EntityFramework.SqlServer.xml
+J:\專題版面\project\bin\System.Web.Helpers.xml
+J:\專題版面\project\bin\System.Web.Mvc.xml
+J:\專題版面\project\bin\System.Web.Optimization.xml
+J:\專題版面\project\bin\System.Web.Razor.xml
+J:\專題版面\project\bin\System.Web.WebPages.xml
+J:\專題版面\project\bin\System.Web.WebPages.Deployment.xml
+J:\專題版面\project\bin\System.Web.WebPages.Razor.xml
+J:\專題版面\project\bin\Newtonsoft.Json.xml
+J:\專題版面\project\bin\Antlr3.Runtime.pdb
+J:\專題版面\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\專題版面\project\bin\zh-Hant\EntityFramework.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.Helpers.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.Mvc.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.Optimization.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.Razor.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.WebPages.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+J:\專題版面\project\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+J:\專題版面\project\obj\Debug\project.csprojAssemblyReference.cache
+J:\專題版面\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+J:\專題版面\project\obj\Debug\project.csproj.CopyComplete
+J:\專題版面\project\obj\Debug\project.dll
+J:\專題版面\project\obj\Debug\project.pdb
+J:\專題版面\project - 複製\bin\project.dll.config
+J:\專題版面\project - 複製\bin\project.dll
+J:\專題版面\project - 複製\bin\project.pdb
+J:\專題版面\project - 複製\bin\roslyn\csc.exe
+J:\專題版面\project - 複製\bin\roslyn\csc.exe.config
+J:\專題版面\project - 複製\bin\roslyn\csc.rsp
+J:\專題版面\project - 複製\bin\roslyn\csi.exe
+J:\專題版面\project - 複製\bin\roslyn\csi.exe.config
+J:\專題版面\project - 複製\bin\roslyn\csi.rsp
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.Managed.Core.targets
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\專題版面\project - 複製\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\專題版面\project - 複製\bin\roslyn\System.AppContext.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Collections.Immutable.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Console.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Globalization.Calendars.dll
+J:\專題版面\project - 複製\bin\roslyn\System.IO.Compression.dll
+J:\專題版面\project - 複製\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\專題版面\project - 複製\bin\roslyn\System.IO.FileSystem.dll
+J:\專題版面\project - 複製\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Net.Http.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Net.Sockets.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Reflection.Metadata.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\專題版面\project - 複製\bin\roslyn\System.ValueTuple.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Xml.XmlDocument.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Xml.XPath.dll
+J:\專題版面\project - 複製\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\專題版面\project - 複製\bin\roslyn\vbc.exe
+J:\專題版面\project - 複製\bin\roslyn\vbc.exe.config
+J:\專題版面\project - 複製\bin\roslyn\vbc.rsp
+J:\專題版面\project - 複製\bin\roslyn\VBCSCompiler.exe
+J:\專題版面\project - 複製\bin\roslyn\VBCSCompiler.exe.config
+J:\專題版面\project - 複製\bin\Antlr3.Runtime.dll
+J:\專題版面\project - 複製\bin\EntityFramework.dll
+J:\專題版面\project - 複製\bin\EntityFramework.SqlServer.dll
+J:\專題版面\project - 複製\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\專題版面\project - 複製\bin\Microsoft.Web.Infrastructure.dll
+J:\專題版面\project - 複製\bin\Newtonsoft.Json.dll
+J:\專題版面\project - 複製\bin\System.Web.Helpers.dll
+J:\專題版面\project - 複製\bin\System.Web.Mvc.dll
+J:\專題版面\project - 複製\bin\System.Web.Optimization.dll
+J:\專題版面\project - 複製\bin\System.Web.Razor.dll
+J:\專題版面\project - 複製\bin\System.Web.WebPages.Deployment.dll
+J:\專題版面\project - 複製\bin\System.Web.WebPages.dll
+J:\專題版面\project - 複製\bin\System.Web.WebPages.Razor.dll
+J:\專題版面\project - 複製\bin\WebGrease.dll
+J:\專題版面\project - 複製\bin\EntityFramework.xml
+J:\專題版面\project - 複製\bin\EntityFramework.SqlServer.xml
+J:\專題版面\project - 複製\bin\System.Web.Helpers.xml
+J:\專題版面\project - 複製\bin\System.Web.Mvc.xml
+J:\專題版面\project - 複製\bin\System.Web.Optimization.xml
+J:\專題版面\project - 複製\bin\System.Web.Razor.xml
+J:\專題版面\project - 複製\bin\System.Web.WebPages.xml
+J:\專題版面\project - 複製\bin\System.Web.WebPages.Deployment.xml
+J:\專題版面\project - 複製\bin\System.Web.WebPages.Razor.xml
+J:\專題版面\project - 複製\bin\Newtonsoft.Json.xml
+J:\專題版面\project - 複製\bin\Antlr3.Runtime.pdb
+J:\專題版面\project - 複製\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\專題版面\project - 複製\bin\zh-Hant\EntityFramework.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.Helpers.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.Mvc.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.Optimization.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.Razor.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.WebPages.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+J:\專題版面\project - 複製\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+J:\專題版面\project - 複製\obj\Debug\project.csprojAssemblyReference.cache
+J:\專題版面\project - 複製\obj\Debug\project.csproj.CoreCompileInputs.cache
+J:\專題版面\project - 複製\obj\Debug\project.csproj.CopyComplete
+J:\專題版面\project - 複製\obj\Debug\project.dll
+J:\專題版面\project - 複製\obj\Debug\project.pdb
+E:\專題版面\project - 複製\bin\project.dll.config
+E:\專題版面\project - 複製\bin\project.dll
+E:\專題版面\project - 複製\bin\project.pdb
+E:\專題版面\project - 複製\bin\roslyn\csc.exe
+E:\專題版面\project - 複製\bin\roslyn\csc.exe.config
+E:\專題版面\project - 複製\bin\roslyn\csc.rsp
+E:\專題版面\project - 複製\bin\roslyn\csi.exe
+E:\專題版面\project - 複製\bin\roslyn\csi.exe.config
+E:\專題版面\project - 複製\bin\roslyn\csi.rsp
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.Managed.Core.targets
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\專題版面\project - 複製\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\專題版面\project - 複製\bin\roslyn\System.AppContext.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Collections.Immutable.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Console.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Globalization.Calendars.dll
+E:\專題版面\project - 複製\bin\roslyn\System.IO.Compression.dll
+E:\專題版面\project - 複製\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\專題版面\project - 複製\bin\roslyn\System.IO.FileSystem.dll
+E:\專題版面\project - 複製\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Net.Http.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Net.Sockets.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Reflection.Metadata.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\專題版面\project - 複製\bin\roslyn\System.ValueTuple.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Xml.XmlDocument.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Xml.XPath.dll
+E:\專題版面\project - 複製\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\專題版面\project - 複製\bin\roslyn\vbc.exe
+E:\專題版面\project - 複製\bin\roslyn\vbc.exe.config
+E:\專題版面\project - 複製\bin\roslyn\vbc.rsp
+E:\專題版面\project - 複製\bin\roslyn\VBCSCompiler.exe
+E:\專題版面\project - 複製\bin\roslyn\VBCSCompiler.exe.config
+E:\專題版面\project - 複製\bin\Antlr3.Runtime.dll
+E:\專題版面\project - 複製\bin\EntityFramework.dll
+E:\專題版面\project - 複製\bin\EntityFramework.SqlServer.dll
+E:\專題版面\project - 複製\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\專題版面\project - 複製\bin\Microsoft.Web.Infrastructure.dll
+E:\專題版面\project - 複製\bin\Newtonsoft.Json.dll
+E:\專題版面\project - 複製\bin\System.Web.Helpers.dll
+E:\專題版面\project - 複製\bin\System.Web.Mvc.dll
+E:\專題版面\project - 複製\bin\System.Web.Optimization.dll
+E:\專題版面\project - 複製\bin\System.Web.Razor.dll
+E:\專題版面\project - 複製\bin\System.Web.WebPages.Deployment.dll
+E:\專題版面\project - 複製\bin\System.Web.WebPages.dll
+E:\專題版面\project - 複製\bin\System.Web.WebPages.Razor.dll
+E:\專題版面\project - 複製\bin\WebGrease.dll
+E:\專題版面\project - 複製\bin\EntityFramework.xml
+E:\專題版面\project - 複製\bin\EntityFramework.SqlServer.xml
+E:\專題版面\project - 複製\bin\System.Web.Helpers.xml
+E:\專題版面\project - 複製\bin\System.Web.Mvc.xml
+E:\專題版面\project - 複製\bin\System.Web.Optimization.xml
+E:\專題版面\project - 複製\bin\System.Web.Razor.xml
+E:\專題版面\project - 複製\bin\System.Web.WebPages.xml
+E:\專題版面\project - 複製\bin\System.Web.WebPages.Deployment.xml
+E:\專題版面\project - 複製\bin\System.Web.WebPages.Razor.xml
+E:\專題版面\project - 複製\bin\Newtonsoft.Json.xml
+E:\專題版面\project - 複製\bin\Antlr3.Runtime.pdb
+E:\專題版面\project - 複製\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\專題版面\project - 複製\bin\zh-Hant\EntityFramework.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\專題版面\project - 複製\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\專題版面\project - 複製\obj\Debug\project.csprojAssemblyReference.cache
+E:\專題版面\project - 複製\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\專題版面\project - 複製\obj\Debug\project.csproj.CopyComplete
+E:\專題版面\project - 複製\obj\Debug\project.dll
+E:\專題版面\project - 複製\obj\Debug\project.pdb
+C:\Users\USER\Desktop\projectNew\bin\project.dll.config
+C:\Users\USER\Desktop\projectNew\bin\project.dll
+C:\Users\USER\Desktop\projectNew\bin\project.pdb
+C:\Users\USER\Desktop\projectNew\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\projectNew\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\projectNew\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\projectNew\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\projectNew\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\projectNew\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\projectNew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\projectNew\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\projectNew\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\projectNew\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\projectNew\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\projectNew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\projectNew\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\projectNew\bin\EntityFramework.dll
+C:\Users\USER\Desktop\projectNew\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\projectNew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\projectNew\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\projectNew\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\projectNew\bin\WebGrease.dll
+C:\Users\USER\Desktop\projectNew\bin\EntityFramework.xml
+C:\Users\USER\Desktop\projectNew\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\projectNew\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\projectNew\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\projectNew\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\projectNew\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\projectNew\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\projectNew\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\projectNew\obj\Debug\project.csproj.CopyComplete
+C:\Users\USER\Desktop\projectNew\obj\Debug\project.dll
+C:\Users\USER\Desktop\projectNew\obj\Debug\project.pdb
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\project.dll.config
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\project.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\project.pdb
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\csc.exe
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\csc.exe.config
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\csc.rsp
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\csi.exe
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\csi.exe.config
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\csi.rsp
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.AppContext.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Console.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Net.Http.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\vbc.exe
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\vbc.exe.config
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\vbc.rsp
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Antlr3.Runtime.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\EntityFramework.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Newtonsoft.Json.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Helpers.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Mvc.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Optimization.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Razor.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.WebPages.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\WebGrease.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\EntityFramework.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\EntityFramework.SqlServer.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Helpers.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Mvc.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Optimization.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.Razor.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.WebPages.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Newtonsoft.Json.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Antlr3.Runtime.pdb
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\obj\Debug\project.dll
+C:\Users\Shiauwan\Desktop\projectNew\projectNew\obj\Debug\project.pdb
+E:\專題版面\projectNew\projectNew\bin\project.dll.config
+E:\專題版面\projectNew\projectNew\bin\project.dll
+E:\專題版面\projectNew\projectNew\bin\project.pdb
+E:\專題版面\projectNew\projectNew\bin\roslyn\csc.exe
+E:\專題版面\projectNew\projectNew\bin\roslyn\csc.exe.config
+E:\專題版面\projectNew\projectNew\bin\roslyn\csc.rsp
+E:\專題版面\projectNew\projectNew\bin\roslyn\csi.exe
+E:\專題版面\projectNew\projectNew\bin\roslyn\csi.exe.config
+E:\專題版面\projectNew\projectNew\bin\roslyn\csi.rsp
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.Managed.Core.targets
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\專題版面\projectNew\projectNew\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.AppContext.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Collections.Immutable.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Console.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Globalization.Calendars.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.IO.Compression.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.IO.FileSystem.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Net.Http.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Net.Sockets.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Reflection.Metadata.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.ValueTuple.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Xml.XmlDocument.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Xml.XPath.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\專題版面\projectNew\projectNew\bin\roslyn\vbc.exe
+E:\專題版面\projectNew\projectNew\bin\roslyn\vbc.exe.config
+E:\專題版面\projectNew\projectNew\bin\roslyn\vbc.rsp
+E:\專題版面\projectNew\projectNew\bin\roslyn\VBCSCompiler.exe
+E:\專題版面\projectNew\projectNew\bin\roslyn\VBCSCompiler.exe.config
+E:\專題版面\projectNew\projectNew\bin\Antlr3.Runtime.dll
+E:\專題版面\projectNew\projectNew\bin\EntityFramework.dll
+E:\專題版面\projectNew\projectNew\bin\EntityFramework.SqlServer.dll
+E:\專題版面\projectNew\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\專題版面\projectNew\projectNew\bin\Microsoft.Web.Infrastructure.dll
+E:\專題版面\projectNew\projectNew\bin\Newtonsoft.Json.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.Helpers.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.Mvc.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.Optimization.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.Razor.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.WebPages.Deployment.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.WebPages.dll
+E:\專題版面\projectNew\projectNew\bin\System.Web.WebPages.Razor.dll
+E:\專題版面\projectNew\projectNew\bin\WebGrease.dll
+E:\專題版面\projectNew\projectNew\bin\EntityFramework.xml
+E:\專題版面\projectNew\projectNew\bin\EntityFramework.SqlServer.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.Helpers.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.Mvc.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.Optimization.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.Razor.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.WebPages.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.WebPages.Deployment.xml
+E:\專題版面\projectNew\projectNew\bin\System.Web.WebPages.Razor.xml
+E:\專題版面\projectNew\projectNew\bin\Newtonsoft.Json.xml
+E:\專題版面\projectNew\projectNew\bin\Antlr3.Runtime.pdb
+E:\專題版面\projectNew\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\EntityFramework.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\專題版面\projectNew\projectNew\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\專題版面\projectNew\projectNew\obj\Debug\project.csprojAssemblyReference.cache
+E:\專題版面\projectNew\projectNew\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\專題版面\projectNew\projectNew\obj\Debug\project.csproj.CopyComplete
+E:\專題版面\projectNew\projectNew\obj\Debug\project.dll
+E:\專題版面\projectNew\projectNew\obj\Debug\project.pdb
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\project.dll.config
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\project.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\project.pdb
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\csc.exe
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\csc.exe.config
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\csc.rsp
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\csi.exe
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\csi.exe.config
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\csi.rsp
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.AppContext.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Console.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Net.Http.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\vbc.exe
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\vbc.exe.config
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\vbc.rsp
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Antlr3.Runtime.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\EntityFramework.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Newtonsoft.Json.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Helpers.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Mvc.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Optimization.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Razor.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.WebPages.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\WebGrease.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\EntityFramework.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\EntityFramework.SqlServer.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Helpers.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Mvc.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Optimization.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.Razor.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.WebPages.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Newtonsoft.Json.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Antlr3.Runtime.pdb
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\project0720\projectNew\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\project0720\projectNew\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\project0720\projectNew\obj\Debug\project.dll
+C:\Users\Shiauwan\Desktop\project0720\projectNew\obj\Debug\project.pdb
+E:\專題版面\project0721\projectNew\bin\project.dll.config
+E:\專題版面\project0721\projectNew\bin\project.dll
+E:\專題版面\project0721\projectNew\bin\project.pdb
+E:\專題版面\project0721\projectNew\bin\roslyn\csc.exe
+E:\專題版面\project0721\projectNew\bin\roslyn\csc.exe.config
+E:\專題版面\project0721\projectNew\bin\roslyn\csc.rsp
+E:\專題版面\project0721\projectNew\bin\roslyn\csi.exe
+E:\專題版面\project0721\projectNew\bin\roslyn\csi.exe.config
+E:\專題版面\project0721\projectNew\bin\roslyn\csi.rsp
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.Managed.Core.targets
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.AppContext.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Collections.Immutable.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Console.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Globalization.Calendars.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.IO.Compression.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.IO.FileSystem.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Net.Http.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Net.Sockets.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Reflection.Metadata.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.ValueTuple.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.XmlDocument.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.XPath.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\專題版面\project0721\projectNew\bin\roslyn\vbc.exe
+E:\專題版面\project0721\projectNew\bin\roslyn\vbc.exe.config
+E:\專題版面\project0721\projectNew\bin\roslyn\vbc.rsp
+E:\專題版面\project0721\projectNew\bin\roslyn\VBCSCompiler.exe
+E:\專題版面\project0721\projectNew\bin\roslyn\VBCSCompiler.exe.config
+E:\專題版面\project0721\projectNew\bin\Antlr3.Runtime.dll
+E:\專題版面\project0721\projectNew\bin\EntityFramework.dll
+E:\專題版面\project0721\projectNew\bin\EntityFramework.SqlServer.dll
+E:\專題版面\project0721\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\專題版面\project0721\projectNew\bin\Microsoft.Web.Infrastructure.dll
+E:\專題版面\project0721\projectNew\bin\Newtonsoft.Json.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.Helpers.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.Mvc.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.Optimization.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.Razor.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Deployment.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.WebPages.dll
+E:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Razor.dll
+E:\專題版面\project0721\projectNew\bin\WebGrease.dll
+E:\專題版面\project0721\projectNew\bin\EntityFramework.xml
+E:\專題版面\project0721\projectNew\bin\EntityFramework.SqlServer.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.Helpers.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.Mvc.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.Optimization.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.Razor.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.WebPages.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Deployment.xml
+E:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Razor.xml
+E:\專題版面\project0721\projectNew\bin\Newtonsoft.Json.xml
+E:\專題版面\project0721\projectNew\bin\Antlr3.Runtime.pdb
+E:\專題版面\project0721\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\專題版面\project0721\projectNew\bin\zh-Hant\EntityFramework.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\專題版面\project0721\projectNew\obj\Debug\project.csprojAssemblyReference.cache
+E:\專題版面\project0721\projectNew\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\專題版面\project0721\projectNew\obj\Debug\project.csproj.CopyComplete
+E:\專題版面\project0721\projectNew\obj\Debug\project.dll
+E:\專題版面\project0721\projectNew\obj\Debug\project.pdb
+J:\專題版面\project0721\projectNew\bin\project.dll.config
+J:\專題版面\project0721\projectNew\bin\project.dll
+J:\專題版面\project0721\projectNew\bin\project.pdb
+J:\專題版面\project0721\projectNew\bin\roslyn\csc.exe
+J:\專題版面\project0721\projectNew\bin\roslyn\csc.exe.config
+J:\專題版面\project0721\projectNew\bin\roslyn\csc.rsp
+J:\專題版面\project0721\projectNew\bin\roslyn\csi.exe
+J:\專題版面\project0721\projectNew\bin\roslyn\csi.exe.config
+J:\專題版面\project0721\projectNew\bin\roslyn\csi.rsp
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.Managed.Core.targets
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\專題版面\project0721\projectNew\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.AppContext.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Collections.Immutable.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Console.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Globalization.Calendars.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.IO.Compression.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.IO.FileSystem.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Net.Http.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Net.Sockets.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Reflection.Metadata.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.ValueTuple.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.XmlDocument.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.XPath.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\專題版面\project0721\projectNew\bin\roslyn\vbc.exe
+J:\專題版面\project0721\projectNew\bin\roslyn\vbc.exe.config
+J:\專題版面\project0721\projectNew\bin\roslyn\vbc.rsp
+J:\專題版面\project0721\projectNew\bin\roslyn\VBCSCompiler.exe
+J:\專題版面\project0721\projectNew\bin\roslyn\VBCSCompiler.exe.config
+J:\專題版面\project0721\projectNew\bin\Antlr3.Runtime.dll
+J:\專題版面\project0721\projectNew\bin\EntityFramework.dll
+J:\專題版面\project0721\projectNew\bin\EntityFramework.SqlServer.dll
+J:\專題版面\project0721\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\專題版面\project0721\projectNew\bin\Microsoft.Web.Infrastructure.dll
+J:\專題版面\project0721\projectNew\bin\Newtonsoft.Json.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.Helpers.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.Mvc.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.Optimization.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.Razor.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Deployment.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.WebPages.dll
+J:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Razor.dll
+J:\專題版面\project0721\projectNew\bin\WebGrease.dll
+J:\專題版面\project0721\projectNew\bin\EntityFramework.xml
+J:\專題版面\project0721\projectNew\bin\EntityFramework.SqlServer.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.Helpers.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.Mvc.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.Optimization.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.Razor.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.WebPages.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Deployment.xml
+J:\專題版面\project0721\projectNew\bin\System.Web.WebPages.Razor.xml
+J:\專題版面\project0721\projectNew\bin\Newtonsoft.Json.xml
+J:\專題版面\project0721\projectNew\bin\Antlr3.Runtime.pdb
+J:\專題版面\project0721\projectNew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\專題版面\project0721\projectNew\bin\zh-Hant\EntityFramework.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Helpers.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Mvc.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Optimization.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.Razor.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.WebPages.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+J:\專題版面\project0721\projectNew\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+J:\專題版面\project0721\projectNew\obj\Debug\project.csprojAssemblyReference.cache
+J:\專題版面\project0721\projectNew\obj\Debug\project.csproj.CoreCompileInputs.cache
+J:\專題版面\project0721\projectNew\obj\Debug\project.csproj.CopyComplete
+J:\專題版面\project0721\projectNew\obj\Debug\project.dll
+J:\專題版面\project0721\projectNew\obj\Debug\project.pdb
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\project.dll.config
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\project.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\project.pdb
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\csc.exe
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\csc.exe.config
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\csc.rsp
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\csi.exe
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\csi.exe.config
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\csi.rsp
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.AppContext.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Console.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Net.Http.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\vbc.exe
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\vbc.exe.config
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\vbc.rsp
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Antlr3.Runtime.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\EntityFramework.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Newtonsoft.Json.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Helpers.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Mvc.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Optimization.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Razor.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.WebPages.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\WebGrease.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\EntityFramework.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\EntityFramework.SqlServer.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Helpers.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Mvc.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Optimization.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.Razor.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.WebPages.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Newtonsoft.Json.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Antlr3.Runtime.pdb
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\project0721_Cart\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\project0721_Cart\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\project0721_Cart\obj\Debug\project.dll
+C:\Users\Shiauwan\Desktop\project0721_Cart\obj\Debug\project.pdb
+E:\專題版面\project0722\project0722new\obj\Debug\project.csprojAssemblyReference.cache
+E:\專題版面\project0722\project0722new\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\專題版面\project0722\project0722new\obj\Debug\project.dll
+E:\專題版面\project0722\project0722new\obj\Debug\project.pdb
+E:\專題版面\project0722\project0722new\bin\project.dll.config
+E:\專題版面\project0722\project0722new\bin\project.dll
+E:\專題版面\project0722\project0722new\bin\project.pdb
+E:\專題版面\project0722\project0722new\bin\roslyn\csc.exe
+E:\專題版面\project0722\project0722new\bin\roslyn\csc.exe.config
+E:\專題版面\project0722\project0722new\bin\roslyn\csc.rsp
+E:\專題版面\project0722\project0722new\bin\roslyn\csi.exe
+E:\專題版面\project0722\project0722new\bin\roslyn\csi.exe.config
+E:\專題版面\project0722\project0722new\bin\roslyn\csi.rsp
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.Managed.Core.targets
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\專題版面\project0722\project0722new\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.AppContext.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Collections.Immutable.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Console.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Globalization.Calendars.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.IO.Compression.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.IO.FileSystem.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Net.Http.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Net.Sockets.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Reflection.Metadata.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.ValueTuple.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Xml.XmlDocument.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Xml.XPath.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\專題版面\project0722\project0722new\bin\roslyn\vbc.exe
+E:\專題版面\project0722\project0722new\bin\roslyn\vbc.exe.config
+E:\專題版面\project0722\project0722new\bin\roslyn\vbc.rsp
+E:\專題版面\project0722\project0722new\bin\roslyn\VBCSCompiler.exe
+E:\專題版面\project0722\project0722new\bin\roslyn\VBCSCompiler.exe.config
+E:\專題版面\project0722\project0722new\bin\Antlr3.Runtime.dll
+E:\專題版面\project0722\project0722new\bin\EntityFramework.dll
+E:\專題版面\project0722\project0722new\bin\EntityFramework.SqlServer.dll
+E:\專題版面\project0722\project0722new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\專題版面\project0722\project0722new\bin\Microsoft.Web.Infrastructure.dll
+E:\專題版面\project0722\project0722new\bin\Newtonsoft.Json.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.Helpers.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.Mvc.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.Optimization.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.Razor.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.WebPages.Deployment.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.WebPages.dll
+E:\專題版面\project0722\project0722new\bin\System.Web.WebPages.Razor.dll
+E:\專題版面\project0722\project0722new\bin\WebGrease.dll
+E:\專題版面\project0722\project0722new\bin\EntityFramework.xml
+E:\專題版面\project0722\project0722new\bin\EntityFramework.SqlServer.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.Helpers.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.Mvc.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.Optimization.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.Razor.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.WebPages.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.WebPages.Deployment.xml
+E:\專題版面\project0722\project0722new\bin\System.Web.WebPages.Razor.xml
+E:\專題版面\project0722\project0722new\bin\Newtonsoft.Json.xml
+E:\專題版面\project0722\project0722new\bin\Antlr3.Runtime.pdb
+E:\專題版面\project0722\project0722new\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\專題版面\project0722\project0722new\bin\zh-Hant\EntityFramework.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\專題版面\project0722\project0722new\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\專題版面\project0722\project0722new\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\project_JP\bin\project.dll.config
+C:\Users\Shiauwan\Desktop\project_JP\bin\project.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\project.pdb
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\csc.exe
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\csc.exe.config
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\csc.rsp
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\csi.exe
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\csi.exe.config
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\csi.rsp
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.AppContext.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Console.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Net.Http.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\vbc.exe
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\vbc.exe.config
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\vbc.rsp
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shiauwan\Desktop\project_JP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shiauwan\Desktop\project_JP\bin\Antlr3.Runtime.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\EntityFramework.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\Newtonsoft.Json.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Helpers.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Mvc.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Optimization.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Razor.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.WebPages.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\WebGrease.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\EntityFramework.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\EntityFramework.SqlServer.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Helpers.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Mvc.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Optimization.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.Razor.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.WebPages.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\Newtonsoft.Json.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\Antlr3.Runtime.pdb
+C:\Users\Shiauwan\Desktop\project_JP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project_JP\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\project_JP\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\project_JP\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\project_JP\obj\Debug\project.dll
+C:\Users\Shiauwan\Desktop\project_JP\obj\Debug\project.pdb
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\project.dll.config
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\project.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\project.pdb
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\csc.exe
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\csc.exe.config
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\csc.rsp
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\csi.exe
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\csi.exe.config
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\csi.rsp
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.AppContext.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Console.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Net.Http.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\vbc.exe
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\vbc.exe.config
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\vbc.rsp
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Antlr3.Runtime.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\EntityFramework.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Newtonsoft.Json.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Helpers.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Mvc.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Optimization.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Razor.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.WebPages.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\WebGrease.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\EntityFramework.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\EntityFramework.SqlServer.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Helpers.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Mvc.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Optimization.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.Razor.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.WebPages.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Newtonsoft.Json.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Antlr3.Runtime.pdb
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\project_wan0725\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\project_wan0725\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\project_wan0725\obj\Debug\project.dll
+C:\Users\Shiauwan\Desktop\project_wan0725\obj\Debug\project.pdb
+C:\Users\Shiauwan\Desktop\project_Finish\bin\project.dll.config
+C:\Users\Shiauwan\Desktop\project_Finish\bin\project.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\project.pdb
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\csc.exe
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\csc.exe.config
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\csc.rsp
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\csi.exe
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\csi.exe.config
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\csi.rsp
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.AppContext.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Console.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Net.Http.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\vbc.exe
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\vbc.exe.config
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\vbc.rsp
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shiauwan\Desktop\project_Finish\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Antlr3.Runtime.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\EntityFramework.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\EntityFramework.SqlServer.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Newtonsoft.Json.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Helpers.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Mvc.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Optimization.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Razor.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.WebPages.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\WebGrease.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\EntityFramework.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\EntityFramework.SqlServer.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Helpers.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Mvc.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Optimization.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.Razor.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.WebPages.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Newtonsoft.Json.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Antlr3.Runtime.pdb
+C:\Users\Shiauwan\Desktop\project_Finish\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Shiauwan\Desktop\project_Finish\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\project_Finish\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\project_Finish\obj\Debug\project.csproj.CopyComplete
+C:\Users\Shiauwan\Desktop\project_Finish\obj\Debug\project.dll
+C:\Users\Shiauwan\Desktop\project_Finish\obj\Debug\project.pdb
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\project.dll.config
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\project.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\project.pdb
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\EntityFramework.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.WebPages.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\WebGrease.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\EntityFramework.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.WebPages.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\obj\Debug\project.csproj.CopyComplete
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\obj\Debug\project.dll
+C:\Users\USER\Downloads\project_Finish0726\project_Finish\obj\Debug\project.pdb

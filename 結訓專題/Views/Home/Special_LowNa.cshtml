@@ -1,0 +1,98 @@
+﻿
+@{
+    ViewBag.Title = "Special_LowNa";
+}
+
+<style>
+    .dataDiv {
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        border: 1px;
+        border-style: solid;
+        border-color: darkgrey;
+        padding: 3px 3px 3px 20px;
+        margin: 3px;
+        font-size: larger;
+        text-align: left;
+    }
+
+    .dataDivT {
+        width: 100%;
+        height: 100%;
+        background-color: antiquewhite;
+        color: dimgray;
+        border: 1px;
+        border-style: solid;
+        border-color: darkgrey;
+        padding: 3px 3px 3px 20px;
+        margin: 3px;
+        font-size: larger;
+        text-align: left;
+    }
+</style>
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="special-menu text-center">
+                    <br />
+                    <br />
+                    <div>
+                        <h2 style="font-weight:bold;">
+                            <input class="btn btn-success" type="button" value="低GI飲食" onclick="location.href=' ~/Home/Special_LowGi'" />
+                            <input class="btn btn-success" type="button" value="低油脂飲食" onclick="location.href=' ~/Home/Special_LowFat'" />
+                            <input class="btn btn-success" type="button" value="低鈉飲食" onclick="location.href=' ~/Home/Special_LowNa'" />
+                        </h2>
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div style="padding:0 10%;">
+            <div id="myDIV1" class="dataDivT" onclick="myFunction('myDIV2')">低鈉飲食</div>
+            <div id="myDIV2" class="dataDiv">
+                <h2>
+                    低鈉飲食是指限制飲食中鈉的含量，以預防或減輕水腫，減少心臟、腎臟或肝臟的負擔。鈉是食鹽中的主要成份，富含於醬油、味精、蕃茄醬、豆瓣醬、味噌等調味料中，每日可允許的食用量，請依醫師或營養師指示。當體內鈉之代謝機能發生障礙，無法將體內過多的鈉排出時，就必須限制鈉的攝取，即必須採用低鈉飲食。
+                </h2>
+            </div>
+            <div id="myDIV3" class="dataDivT" onclick="myFunction('myDIV4')">低鈉飲食適用對象</div>
+            <div id="myDIV4" class="dataDiv">
+                <h2>
+                    適用對象高血壓、水腫、腹水、心臟衰竭、慢性腎衰竭、尿毒症、肝硬化、妊娠毒血症、骨質疏鬆者、結石者、長期使用腎上腺皮質荷爾蒙和類固醇等藥物者。
+                </h2>
+            </div>
+            <div id="myDIV5" class="dataDivT" onclick="myFunction('myDIV6')">低鈉飲食技巧</div>
+            <div id="myDIV6" class="dataDiv">
+                <h2>
+                    1.飲食攝取要均衡多樣。若體重過重，則須減輕體重，使體重維持在理想的範圍之內。<br /><br />
+                    2.最好多選擇新鮮食材自行製備，若無法自行製備，則須注意以下事項： <br />
+                    (1)減少食用湯汁。 <br />
+                    (2)避免選擇醃、燻、醬、滷、漬等調味方式製備食物。 <br />
+                    (3)準備開水沖掉食物裡的調味料。 (4)可選擇蔬菜、水果取代鹹味點心。<br /><br />
+                    3.加工產品及烘培食品等皆添加含鈉添加物，宜限制食用，如：各類罐頭、麵線  、油麵  、麵包  、糕餅  、甜鹹餅乾、魚肉加工製品、醃製蔬菜、甜鹹蜜餞等。<br /><br />
+                    4.選擇市售食品時，應注意其外包裝之營養標示鈉含量，並將納攝取量列入飲食設計中。
+                </h2>
+            </div>
+            <div id="myDIV7" class="dataDivT" onclick="myFunction('myDIV8')">低鈉食物分列表</div>
+            <div id="myDIV8" class="dataDiv">
+                <img style="display:block; width:100%; height:100%" class="img-responsive" src="~/images/LowNa1.png" alt="image" />
+                <img style="display:block; width:100%; height:100%" class="img-responsive" src="~/images/LowNa2.png" alt="image" />
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    function myFunction(e) {
+        //if (document.getElementById("myDIV" + e).style.visibility == "hidden")
+        if (document.getElementById(e).style.display == "none") {
+            document.getElementById(e).style.display = "";
+        }
+        else {
+            document.getElementById(e).style.display = "none";
+        }
+    }
+</script>

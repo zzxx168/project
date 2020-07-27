@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewBag.Title = "Special_LowFat";
+}
+
+<style>
+    .dataDiv {
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        border: 1px;
+        border-style: solid;
+        border-color: darkgrey;
+        padding: 3px 3px 3px 20px;
+        margin: 3px;
+        font-size: larger;
+        text-align: left;
+    }
+
+    .dataDivT {
+        width: 100%;
+        height: 100%;
+        background-color: antiquewhite;
+        color: dimgray;
+        border: 1px;
+        border-style: solid;
+        border-color: darkgrey;
+        padding: 3px 3px 3px 20px;
+        margin: 3px;
+        font-size: larger;
+        text-align: left;
+    }
+</style>
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="special-menu text-center">
+                    <br />
+                    <br />
+                    <div>
+                        <h2 style="font-weight:bold;">
+                            <input class="btn btn-success" type="button" value="低GI飲食" onclick="location.href=' ~/Home/Special_LowGi'" />
+                            <input class="btn btn-success" type="button" value="低油脂飲食" onclick="location.href=' ~/Home/Special_LowFat'" />
+                            <input class="btn btn-success" type="button" value="低鈉飲食" onclick="location.href=' ~/Home/Special_LowNa'" />
+                        </h2>
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div style="padding:0 10%;">
+            <div id="myDIV1" class="dataDivT" onclick="myFunction('myDIV2')">低油脂飲食</div>
+            <div id="myDIV2" class="dataDiv">
+                <h2>
+                    每日飲食中的脂肪量小於50公克，其餘的營養素，如醣類、蛋白質、維生素、礦物質等均足以達到人體健康需求的一種飲食。限制飲食中脂肪的攝取量，以降低胰臟及腸道負荷，減少對膽囊的刺激及降低血中脂質濃度。
+                </h2>
+            </div>
+            <div id="myDIV3" class="dataDivT" onclick="myFunction('myDIV4')">靈活的選擇低油脂食物</div>
+            <div id="myDIV4" class="dataDiv">
+                <h2>
+                    1.選擇脂肪較少的肉類，去皮和肥肉。含油量比較如下：<br /><br />
+                    （1）依種類比較：魚/海鮮＜雞＜鴨＜牛＜羊＜豬<br /><br />
+                    （2）依部位比較：雞胸＜雞腿＜雞翅<br />
+                    　　　　　　　　  豬腿瘦肉、豬腱肉＜豬里肌＜豬排＜梅花肉＜五花肉<br /><br />
+                    2.少絞肉類半成品和加工製品：混有一半比例以上的肥肉，讓我們忽略了它的高油和高熱量（包括：肉燥、肉鬆、香腸、熱狗、漢堡肉、燒賣、鍋貼、貢丸、魚餃、燕餃等）。<br /><br />
+                    3.少油炸食物：食物經過油炸至少吸附15~25%的油脂，會使熱量倍增。<br />
+                </h2>
+            </div>
+            <div id="myDIV5" class="dataDivT" onclick="myFunction('myDIV6')">巧妙的低油脂烹調方式</div>
+            <div id="myDIV6" class="dataDiv">
+                <h2>
+                    蒸、煮、滷、燉，零油脂：選擇少油烹調的菜色,如：烤雞腿、清蒸鯛魚、滷牛健、涼拌雞絲、白斬雞去皮、蒜泥瘦肉。<br /><br />
+                    減少用油量≠完全不用油：每天2湯匙植物油，以單元不飽和脂肪酸多者為首選，包括：橄欖油、芥花油、苦茶油等。<br /><br />
+                    以海帶、番茄、洋蔥、蘿蔔等蔬菜代替大骨熬湯，飯前喝碗清湯可以增加飽足感又零熱量。<br />
+                </h2>
+            </div>
+            <div id="myDIV7" class="dataDivT" onclick="myFunction('myDIV8')">低油脂食物分列表</div>
+            <div id="myDIV8" class="dataDiv">
+                <img style="display:block; width:100%; height:100%" class="img-responsive" src="~/images/LowFat1.png" alt="image" />
+                <img style="display:block; width:100%; height:100%" class="img-responsive" src="~/images/LowFat2.png" alt="image" />
+                <img style="display:block; width:100%; height:100%" class="img-responsive" src="~/images/LowFat3.png" alt="image" />
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    function myFunction(e) {
+        //if (document.getElementById("myDIV" + e).style.visibility == "hidden")
+        if (document.getElementById(e).style.display == "none") {
+            document.getElementById(e).style.display = "";
+        }
+        else {
+            document.getElementById(e).style.display = "none";
+        }
+    }
+</script>

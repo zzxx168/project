@@ -1,0 +1,73 @@
+﻿
+@model List<project.Models.OrderDetail>
+@{var apple = @ViewData["Table"];}
+
+@{
+    Layout = "~/Views/Shared/_LayoutOld.cshtml";
+}
+@section script{
+    <script>
+        $(".orderQ").addClass("active");
+    </script>
+}
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="heading-title text-center">
+                    <br />
+                    <br />
+                    <br />
+                    <h2>訂單明細</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row special-list">
+            <table  style="font-size:larger; color: black;" class="table">
+                <thead><tr><td align="center">名稱</td><td align="center">單價</td><td align="center">數量</td><td align="center">小計</td><td align="center"></td></tr></thead>
+                <tbody>
+                    @{
+                        int Ftotal = 0;
+                        int totalQuantity = 0;
+                        int ship = 0;
+                        int Sship = 200;
+                        int Bship = 300;
+                        int tt = 0;
+
+
+                        foreach (var pd in @Model)
+                        {
+                            <tr>
+                                <td align="center" style="padding:25px 0 0 0; ">@pd.ProductName</td>
+                                <td align="center" style="padding:25px 0 0 0; ">@pd.Price</td>
+                                <td align="center" style="padding:20px 0 0 0; ">@pd.Amount</td>
+                                <td align="center" style="padding:25px 0 0 0; ">
+                                    @{
+                                        int sTotal = (int)pd.Price * (int)pd.Amount;
+                                        Ftotal += sTotal;
+
+                                        totalQuantity += (int)pd.Amount;
+                                        if (totalQuantity > 0 & totalQuantity < 6)
+                                        {
+                                            ship = Sship;
+                                        }
+                                        if (totalQuantity > 5)
+                                        {
+                                            ship = Bship;
+                                        }
+
+                                        tt = ship + Ftotal;
+                            }@sTotal
+                        </td>
+
+                    </tr>
+                        }
+                        <tr><td colspan="3"></td><td align="center">小計</td><td align="center" id="pt">@Ftotal</td></tr>
+                        <tr><td colspan="3"></td><td align="center">運費</td><td align="center">@ship</td></tr>
+                        <tr><td colspan="3"></td><td align="center">總計</td><td align="center" id=" tt">@tt</td></tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\bin\Debug\memberLogIn.exe.config
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\bin\Debug\memberLogIn.exe
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\bin\Debug\memberLogIn.pdb
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.csprojAssemblyReference.cache
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.Form1.resources
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.Properties.Resources.resources
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.csproj.GenerateResource.cache
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.csproj.CoreCompileInputs.cache
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.exe
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.pdb
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.Form2.resources
+C:\Users\Shiauwan\Desktop\C#\ADO_NET\會員登入\memberLogIn\obj\Debug\memberLogIn.Form3.resources
