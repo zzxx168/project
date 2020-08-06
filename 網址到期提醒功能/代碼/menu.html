@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>網域監控</title>
+    <style type="text/css">
+        th {
+            color: #0a6999;
+
+        }
+    </style>
+    <!--有錯誤-->
+<!--    <script type="text/javascript">-->
+<!--        function valueCheck() {-->
+<!--            var e = e || window.event;-->
+<!--            var obj = e.target || e.srcElement;-->
+<!--            var ids = document.getElementById('ids');-->
+<!--            if (ids.value === null || ids.value === '') {-->
+<!--                alert('請勾選菜單');-->
+<!--                return false;-->
+<!--            }-->
+
+<!--        }-->
+<!--    </script>-->
+    <script type="text/javascript">
+
+        // function changeActiontoEdit()
+        // {
+
+        //     var action=document.getElementById('form');
+        //     var e = e || window.event;
+        //     var obj = e.target || e.srcElement;
+        //     var value=obj.value;
+        //     var path="edit.php?id="+value;
+        //     action.setAttribute("action",path);
+            
+        // }
+        function changeActiontoDelete()
+        {
+            var action=document.getElementById('form');
+            var e = e || window.event;
+            var obj = e.target || e.srcElement;
+            var value=obj.value;
+            var path="deleteFood.php?id="+value;
+            action.setAttribute("action",path);
+
+        }
+        function changeActiontoAdd()
+        {
+            var action=document.getElementById('form');
+            action.setAttribute("action","ahh.html");
+
+        }
+    </script>
+</head>
+<body>
+
+<h3 align="center">網域監控</h3>
+<div align="center"><a href="add.html">
+    <button >新增網站</button></a>
+</div>
+<div>
+    <form align="center" id='form' method="post" action="order.php" >
+        <table align="center" border="2px" width="600" cellpadding="10" bgcolor="#fff8dc">
+            <tr>
+                <th colspan="2">網域</th>
+                <!--                <th>編號</th>-->
+                <th>網站</th>
+                <th>期限</th>
+                <th width="200">操作</th>
+            </tr>
+            <!--插入php標籤並使用while語句，打印圖書資訊-->
+            <?php while($rows=$result1->fetch(PDO::FETCH_ASSOC)){  ?>
+            <tr>
+                <td>
+                    <input type="checkbox" value="<?php echo $rows['id'] ?>" id='ids' name="ids[]">
+                </td>
+                <td><?php echo $rows["domain"];?></td>
+                <td><?php echo $rows["web"];?></td>
+                <td><?php echo $rows["expiry_date"];?></td>
+
+                <!--設定編輯和刪除按鈕，使用?id方式傳遞id值-->
+                <td>
+
+                    <button value="<?php echo $rows['id'] ?>">修d改123期限</button>
+
+
+
+                    <a onclick="return confirm('確定刪除?')">
+                        <button value="<?php echo $rows['id'] ?>" onclick="changeActiontoDelete()">移除</button>
+                    </a>
+                </td>
+            </tr>
+            <?php  } ?>
+        </table>
+                <input type="submit" >
+    </form>
+    <!--獲取總條數-->
+<!--    <p align="center"><?php echo "總計".$sum."樣菜色" ?></p>-->
+</div>
+
+</body>
+</html>
