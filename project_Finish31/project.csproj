@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5CB93494-830F-4A25-9B77-245328CAD21B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44314</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.AspNet.Mvc.5.2.7\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.AspNet.Razor.3.2.7\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CartController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\TestController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cart\Cart.cs" />
+    <Compile Include="Models\Cart\CartItem.cs" />
+    <Compile Include="Models\Cart\Operation.cs" />
+    <Compile Include="Models\FoodProduct.cs">
+      <DependentUpon>OrderFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\FoodUser.cs">
+      <DependentUpon>OrderFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\FoodUsersController.cs" />
+    <Compile Include="Models\OrderDetail.cs">
+      <DependentUpon>OrderFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderFood.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OrderFood.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderFood.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OrderFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderFood.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OrderFood.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderTable.cs">
+      <DependentUpon>OrderFood.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Order\Ship.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\css\animate.css" />
+    <Content Include="Content\css\baguetteBox.min.css" />
+    <Content Include="Content\css\bootstrap.min.css" />
+    <Content Include="Content\css\bootstrap2.min.css" />
+    <Content Include="Content\css\classic.css" />
+    <Content Include="Content\css\classic.date.css" />
+    <Content Include="Content\css\classic.time.css" />
+    <Content Include="Content\css\custom.css" />
+    <Content Include="Content\css\font-awesome.min.css" />
+    <Content Include="Content\css\member-login.css" />
+    <Content Include="Content\css\member.css" />
+    <Content Include="Content\css\responsive.css" />
+    <Content Include="Content\css\style.css" />
+    <Content Include="Content\css\style2.css" />
+    <Content Include="Content\css\style3.css" />
+    <Content Include="Content\css\superslides.css" />
+    <Content Include="Content\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\fonts\FontAwesome.otf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\Site.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="images\about-img.jpg" />
+    <Content Include="images\all-bg.jpg" />
+    <Content Include="images\avt-img.jpg" />
+    <Content Include="images\blog-img-01.jpg" />
+    <Content Include="images\blog-img-02.jpg" />
+    <Content Include="images\blog-img-03.jpg" />
+    <Content Include="images\blog-img-04.jpg" />
+    <Content Include="images\blog-img-05.jpg" />
+    <Content Include="images\blog-img-06.jpg" />
+    <Content Include="images\blog-img-07.jpg" />
+    <Content Include="images\blog-img-08.jpg" />
+    <Content Include="images\blog-img-09.jpg" />
+    <Content Include="images\computerV.jpg" />
+    <Content Include="images\demo\17111600130004_pic.jpg" />
+    <Content Include="images\demo\author-2.jpg" />
+    <Content Include="images\demo\author-4.jpg" />
+    <Content Include="images\demo\author-6.jpg" />
+    <Content Include="images\demo\portfolio-1.jpg" />
+    <Content Include="images\demo\portfolio-2.jpg" />
+    <Content Include="images\demo\portfolio-3.jpg" />
+    <Content Include="images\demo\portfolio-4.jpg" />
+    <Content Include="images\demo\portfolio-5.jpg" />
+    <Content Include="images\demo\portfolio-6.jpg" />
+    <Content Include="images\footer-bg.jpg" />
+    <Content Include="images\gallery-img-01.jpg" />
+    <Content Include="images\gallery-img-02.jpg" />
+    <Content Include="images\gallery-img-03.jpg" />
+    <Content Include="images\gallery-img-04.jpg" />
+    <Content Include="images\gallery-img-05.jpg" />
+    <Content Include="images\gallery-img-06.jpg" />
+    <Content Include="images\image.jpg" />
+    <Content Include="images\img-01.jpg" />
+    <Content Include="images\img-02.jpg" />
+    <Content Include="images\img-03.jpg" />
+    <Content Include="images\img-04.jpg" />
+    <Content Include="images\img-05.jpg" />
+    <Content Include="images\img-06.jpg" />
+    <Content Include="images\img-07.jpg" />
+    <Content Include="images\img-08.jpg" />
+    <Content Include="images\img-09.jpg" />
+    <Content Include="images\inner-blog-img.jpg" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\logo3.png" />
+    <Content Include="images\logo4.png" />
+    <Content Include="images\logo5.png" />
+    <Content Include="images\LowFat1.png" />
+    <Content Include="images\LowFat2.png" />
+    <Content Include="images\LowFat3.png" />
+    <Content Include="images\LowGi.png" />
+    <Content Include="images\LowNa1.png" />
+    <Content Include="images\LowNa2.png" />
+    <Content Include="images\mylogo.jpg" />
+    <Content Include="images\mylogo.png" />
+    <Content Include="images\orderfood.jpg" />
+    <Content Include="images\post-img-01.jpg" />
+    <Content Include="images\post-img-02.jpg" />
+    <Content Include="images\post-img-03.jpg" />
+    <Content Include="images\profile-1.jpg" />
+    <Content Include="images\profile-3.jpg" />
+    <Content Include="images\profile-7.jpg" />
+    <Content Include="images\qt-bg.jpg" />
+    <Content Include="images\shopping.gif" />
+    <Content Include="images\slider-01.jpg" />
+    <Content Include="images\slider-02.jpg" />
+    <Content Include="images\slider-03.jpg" />
+    <Content Include="images\stuff-img-01.jpg" />
+    <Content Include="images\stuff-img-02.jpg" />
+    <Content Include="images\stuff-img-03.jpg" />
+    <Content Include="images\turn.jpg" />
+    <Content Include="images\三杯杏鮑菇.jpg" />
+    <Content Include="images\上菜了.jpg" />
+    <Content Include="images\上菜了2.jpg" />
+    <Content Include="images\五花肉.jpg" />
+    <Content Include="images\低鈉打拋豬.jpg" />
+    <Content Include="images\冬瓜.jpg" />
+    <Content Include="images\吳郭魚.jpg" />
+    <Content Include="images\和風薑汁燒牛番茄.jpg" />
+    <Content Include="images\和風醬咖哩雞胸排.jpg" />
+    <Content Include="images\四季豆.jpg" />
+    <Content Include="images\地瓜葉.jpg" />
+    <Content Include="images\小黃瓜.jpg" />
+    <Content Include="images\山藥.jpg" />
+    <Content Include="images\巨峰葡萄.jpg" />
+    <Content Include="images\彩椒.jpg" />
+    <Content Include="images\新興梨.jpeg" />
+    <Content Include="images\木瓜.jpg" />
+    <Content Include="images\栗子.jpg" />
+    <Content Include="images\梅花肉.jpg" />
+    <Content Include="images\椒鹽櫛瓜.jpg" />
+    <Content Include="images\楊桃.jpg" />
+    <Content Include="images\橙香鮮蔬炒雞柳.jpg" />
+    <Content Include="images\檸檬.jpg" />
+    <Content Include="images\毛豆薏仁飯.jpg" />
+    <Content Include="images\沙朗肉片.jpeg" />
+    <Content Include="images\泰式打拋豬.jpg" />
+    <Content Include="images\洋蔥.jpg" />
+    <Content Include="images\洋蔥燒雞.jpg" />
+    <Content Include="images\涼拌塔香茄子.jpg" />
+    <Content Include="images\清爽低脂白胡椒芹菜嫩雞胸.jpg" />
+    <Content Include="images\火龍果.jpg" />
+    <Content Include="images\照燒雞肉塊.jpg" />
+    <Content Include="images\燙地瓜葉佐豬油紅蔥酥.jpg" />
+    <Content Include="images\牛肉.jpg" />
+    <Content Include="images\牛蕃茄.jpg" />
+    <Content Include="images\玉米.jpg" />
+    <Content Include="images\玉米筍.jpg" />
+    <Content Include="images\番石榴.jpg" />
+    <Content Include="images\白菜.jpg" />
+    <Content Include="images\石斑魚.jpg" />
+    <Content Include="images\秋葵.jpg" />
+    <Content Include="images\空心菜.jpg" />
+    <Content Include="images\筊白筍.jpg" />
+    <Content Include="images\絲瓜.jpg" />
+    <Content Include="images\綠櫛瓜.jpg" />
+    <Content Include="images\美國1855黑安格斯熟成霜降牛排.jpg" />
+    <Content Include="images\美生菜.jpg" />
+    <Content Include="images\胡瓜.jpg" />
+    <Content Include="images\胡蘿蔔.jpg" />
+    <Content Include="images\胡麻菇菇肉片捲.jpg" />
+    <Content Include="images\芒果.jpg" />
+    <Content Include="images\花椰豬肉咖哩.jpg" />
+    <Content Include="images\芹菜.jpg" />
+    <Content Include="images\苦瓜.jpg" />
+    <Content Include="images\茄子.jpg" />
+    <Content Include="images\茭白筍.jpg" />
+    <Content Include="images\茭白筍炒木耳.jpg" />
+    <Content Include="images\草蝦.jpg" />
+    <Content Include="images\蒙特羅烤時蔬.jpg" />
+    <Content Include="images\蓮藕.jpg" />
+    <Content Include="images\蘆筍.jpg" />
+    <Content Include="images\蘆筍豌豆橙汁雞胸肉.jpg" />
+    <Content Include="images\蘋果.jpg" />
+    <Content Include="images\虱目魚.jpg" />
+    <Content Include="images\蛤蜊.jpg" />
+    <Content Include="images\豆乳味噌海陸土手鍋.jpg" />
+    <Content Include="images\豬排骨.jpg" />
+    <Content Include="images\豬肉.jpg" />
+    <Content Include="images\酪梨.jpg" />
+    <Content Include="images\里肌肉.jpg" />
+    <Content Include="images\金針菇.jpg" />
+    <Content Include="images\雞胸肉.jpg" />
+    <Content Include="images\雞腿切塊.jpg" />
+    <Content Include="images\青花椰菜.jpg" />
+    <Content Include="images\食材資料.docx" />
+    <Content Include="images\香煎干貝暖沙拉.jpg" />
+    <Content Include="images\香煎豬頸肉.jpg" />
+    <Content Include="images\香草雞排.jpg" />
+    <Content Include="images\香蒜雞胸肉.jpg" />
+    <Content Include="images\香蕉.jpg" />
+    <Content Include="images\馬鈴薯.jpg" />
+    <Content Include="images\高蛋白高鈣低脂秋葵炒雞胸肉.jpg" />
+    <Content Include="images\魚香茄子.jpg" />
+    <Content Include="images\鮮蚵.jpg" />
+    <Content Include="images\鱸魚.jpg" />
+    <Content Include="images\黑糖烤鮭魚.jpg" />
+    <Content Include="Models\OrderFood.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>OrderFood.Context.cs</LastGenOutput>
+      <DependentUpon>OrderFood.edmx</DependentUpon>
+    </Content>
+    <Content Include="Models\OrderFood.edmx.sql" />
+    <Content Include="Models\OrderFood.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>OrderFood.edmx</DependentUpon>
+      <LastGenOutput>OrderFood.cs</LastGenOutput>
+    </Content>
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <EntityDeploy Include="Models\OrderFood.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>OrderFood.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\OrderFood.edmx.diagram">
+      <DependentUpon>OrderFood.edmx</DependentUpon>
+    </Content>
+    <Content Include="Content\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.4.1.js" />
+    <Content Include="Scripts\jquery-3.4.1.min.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.js" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\js\baguetteBox.min.js" />
+    <Content Include="Scripts\js\bootstrap.min.js" />
+    <Content Include="Scripts\js\contact-form-script.js" />
+    <Content Include="Scripts\js\custom.js" />
+    <Content Include="Scripts\js\form-validator.min.js" />
+    <Content Include="Scripts\js\images-loded.min.js" />
+    <Content Include="Scripts\js\isotope.min.js" />
+    <Content Include="Scripts\js\jquery-3.2.1.min.js" />
+    <Content Include="Scripts\js\jquery.mapify.js" />
+    <Content Include="Scripts\js\jquery.superslides.min.js" />
+    <Content Include="Scripts\js\legacy.js" />
+    <Content Include="Scripts\js\picker.date.js" />
+    <Content Include="Scripts\js\picker.js" />
+    <Content Include="Scripts\js\picker.time.js" />
+    <Content Include="Scripts\js\popper.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\_LayoutOld.cshtml" />
+    <Content Include="Views\Home\Index2.cshtml" />
+    <Content Include="Views\Home\Menu.cshtml" />
+    <Content Include="Views\Home\Test.cshtml" />
+    <Content Include="Views\Home\Vegetables.cshtml" />
+    <Content Include="Views\Shared\_Layout - 複製.cshtml" />
+    <Content Include="Views\Home\Menu - 複製.cshtml" />
+    <Content Include="Views\Home\Vegetables - 複製.cshtml" />
+    <Content Include="Views\Home\Vegetables - 複製 %282%29.cshtml" />
+    <Content Include="Views\Home\Member.cshtml" />
+    <Content Include="Views\Home\Terms.cshtml" />
+    <Content Include="Views\FoodUsers\Create.cshtml" />
+    <Content Include="Views\FoodUsers\Delete.cshtml" />
+    <Content Include="Views\FoodUsers\Details.cshtml" />
+    <Content Include="Views\FoodUsers\Edit.cshtml" />
+    <Content Include="Views\FoodUsers\Index.cshtml" />
+    <Content Include="Views\Home\mVegetables - 複製.cshtml" />
+    <Content Include="Views\Home\myLogin.cshtml" />
+    <Content Include="Views\Home\memberData.cshtml" />
+    <Content Include="Views\Shared\_CartPartial.cshtml" />
+    <Content Include="Views\Shared\_CartPartial3.cshtml" />
+    <Content Include="Views\Order\Index.cshtml" />
+    <Content Include="Views\Home\Special_LowGi.cshtml" />
+    <Content Include="Views\Home\Special_LowFat.cshtml" />
+    <Content Include="Views\Home\Special_LowNa.cshtml" />
+    <Content Include="Views\Home\orderQ.cshtml" />
+    <Content Include="Views\Home\orderL.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>13934</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44314/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>此專案參考這部電腦上所缺少的 NuGet 套件。請啟用 NuGet 套件還原，以下載該套件。如需詳細資訊，請參閱 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的檔案是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

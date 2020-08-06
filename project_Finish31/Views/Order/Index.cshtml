@@ -1,0 +1,192 @@
+﻿@model Carts.Models.Order.Ship
+
+@{
+
+    ViewBag.Title = "結帳";
+    Layout = "~/Views/Shared/_LayoutOld.cshtml";
+
+    //取得目前購物車
+    var cart = Carts.Models.Cart.Operation.GetCurrentCart();
+}
+
+    <script>
+  function EditToCart(productId, quantity) {
+        if (quantity == undefined)
+            quantity = 0;
+
+        if (quantity == "")
+            quantity = 0;
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("EditToCart", "Cart")',
+            data: { id: productId, quantity: quantity }
+        })
+        .done(function (msg) {
+            // console.log(msg);
+            //將回傳的購物車頁面 填入 li#Cart
+            $('li#Cart').html(msg);
+
+        });
+      //if (quantity < 1) {
+      //    window.location.reload();
+      //}
+        }
+
+    function EditToCart2() {
+        alert("shit");
+    }
+    </script>
+
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="heading-title text-center">
+                    <br />
+                    <br />
+                    <br />
+                    <h2>我的菜籃明細</h2>
+                </div>
+            </div>
+        </div>
+        @* 列出購物車內商品讓使用者作最後確認 *@
+        <div class="row special-list">
+            <div class="col-lg-12">
+                <div class="heading-title text-center">
+
+                    <form>
+                        <table class="table">
+                            <thead style="font-size:x-large;color:black;"><tr><td align="center">商品圖</td><td align="center">名稱</td><td align="center">單價</td><td align="center">數量</td><td align="center">小計</td><td align="center"></td></tr></thead>
+                            <tbody>
+                                @foreach (var pd in cart) /* 使用foreach將所有商品列出 */
+                                {
+                                    <tr>
+                                        <td align="center"><img src="~/images/@pd.Photo" width="50" height="50" /></td>
+                                        <td align="center" style="font-size:larger; color: black; padding: 25px 0 0 0; ">@pd.Name</td>
+                                        <td align="center" style="font-size: larger; color: black; padding: 25px 0 0 0; ">@pd.Price</td>
+                                        <td align="center" style="padding:20px 0 0 0; "><input type="text" value="@pd.Quantity" id="@(pd.Id)edit" /></td>
+                                        <td align="center" style="font-size:larger; color: black; padding: 25px 0 0 0; ">
+                                            @{
+                                                int sTotal = pd.Price * pd.Quantity;
+                                            }@sTotal
+                                        </td>
+                                        <td align="center" style="padding:20px 0 0 0; "><button onclick="EditToCart(@pd.Id,$('#@(pd.Id)edit').val())">修改</button></td>
+                                    </tr>
+                                                }
+                                <tr style="font-size:larger; color: black;"><td colspan="4"></td><td align="center">合計</td><td align="center">
+    @{
+
+        int subTotal = cart.TotalAmount - cart.TotalShip;
+
+      }
+                                    
+                                    
+                                    @subTotal<br /><label style="color:red;"> @cart.Memo</label>
+                            </td></tr>
+                                <tr style="font-size:larger; color: black;">
+                                    <td colspan="4"></td>
+                                    <td align="center">運費<label title="數量總計1-5件，運費200元；6件以上，運費300元"><span>（說明）</span></label></td>
+                                    <td align="center">
+                                        @cart.TotalShip
+                                    </td>
+                                </tr>
+                                <tr style="font-size:larger; color: black;"><td colspan="4"></td><td align="center">總計</td><td align="center">@cart.TotalAmount</td></tr>
+                            </tbody>
+                        </table>
+                    </form>
+
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td align="center" style="padding:25px 0 0 10px; ">信用卡付款</td>
+                                <td align="center">
+                                    <i class="fa fa-cc-visa" style="color:navy; font-size:36px"></i>
+                                    <i class="fa fa-cc-amex" style="color:blue;font-size:36px"></i>
+                                    <i class="fa fa-cc-mastercard" style="color:red;font-size:36px;"></i>
+                                </td>
+                                <td align="center" colspan="4"></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding:25px 0 0 10px; ">持卡人姓名</td>
+                                <td align="center" style="padding: 10px 10px 10px 50px;"><input type="text" id="owner" name="owner" pattern="[A-Za-z0-9 ]{6,20}" required="" class="form-control member-login-info-text" placeholder="信用卡上英文全名" /></td>
+                                <td align="center" style="padding:25px 0 0 0; " colspan="4"></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding:25px 0 0 10px; ">信用卡卡號</td>
+                                <td align="center" style="padding: 10px 10px 10px 50px;">
+                                    <input type="text" id="cardNumber" name="cardNumber" required="" pattern="[0-9]{4}" class="form-control member-login-info-text onlyNumber" placeholder="">
+                                </td>
+                                <td align="center" style="padding: 10px 10px 10px 0px;">
+                                    <input type="password" id="cardNumber2" name="cardNumber2" required="" pattern="[0-9]{4}" class="form-control member-login-info-text onlyNumber" placeholder="">
+                                </td>
+                                <td align="center" style="padding: 10px 10px 10px 0px;">
+                                    <input type="text" id="cardNumber3" name="cardNumber3" required="" pattern="[0-9]{4}" class="form-control member-login-info-text onlyNumber" placeholder="">
+                                </td>
+                                <td align="center" style="padding: 10px 10px 10px 0px;">
+                                    <input type="password" id="cardNumber4" name="cardNumber4" required="" pattern="[0-9]{4}" class="form-control member-login-info-text onlyNumber" placeholder="">
+                                </td>
+                                <td align="center" style="padding:25px 0 0 0; "></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding:25px 0 0 25px; ">信用卡安全碼<label for="cvv"></label></td>
+                                <td align="center" style="padding: 10px 10px 10px 50px;">
+                                    <input type="password" class="form-control member-login-info-text" id="cvv" pattern="[0-9]{3}" placeholder="信用卡的CVV碼">
+                                </td>
+                                <td align="center" style="padding:25px 0 0 0; " colspan="4"></td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 20px 10px 20px 5px">有效期限<label for="cvv"></label></td>
+                                <td align="center" style="padding: 20px 10px 10px 10px;">
+                                    <select>
+                                        <option value="01">January</option>
+                                        <option value="02">February </option>
+                                        <option value="03">March</option>
+                                        <option value="04">April</option>
+                                        <option value="05">May</option>
+                                        <option value="06">June</option>
+                                        <option value="07">July</option>
+                                        <option value="08">August</option>
+                                        <option value="09">September</option>
+                                        <option value="10">October</option>
+                                        <option value="11">November</option>
+                                        <option value="12">December</option>
+                                    </select>
+                                    <select>
+                                        <option value="20"> 2020</option>
+                                        <option value="21"> 2021</option>
+                                        <option value="22"> 2022</option>
+                                        <option value="23"> 2023</option>
+                                        <option value="24"> 2024</option>
+                                        <option value="25"> 2025</option>
+                                        <option value="26"> 2026</option>
+                                        <option value="27"> 2027</option>
+                                        <option value="28"> 2028</option>
+                                        <option value="29"> 2029</option>
+                                        <option value="30"> 2030</option>
+                                    </select>
+                                </td>
+                                <td align="center" style="padding:25px 0 0 0; " colspan="4"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div style="padding-left:85%">
+                        <a href="~/Order/Buy" class="ui-btn ui-btn-corner-all">
+                            <h2 style="font-weight:bold;">
+                                @*<button type="button" ><a href="~/Order/Buy">確認結帳</a> </button>*@
+                                <input class="btn btn-success" type="button" id="sendOrder" name="sendOrder" value="確認結帳" onclick="ordercreate()" />
+                            </h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    function ordercreate() {
+        alert("訂單已送出");
+        return false;
+    }
+</script>

@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "myLogin";
+}
+
+<script>
+    $(".member").addClass("active");
+</script>
+
+@model List<project.Models.FoodUser>
+
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="heading-title text-center">
+                    <br />
+                    <br />
+                    <br />
+                    <h2>會員登入</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row special-list">
+            @*左邊會員註冊資料 *@
+            @* E-mail/帳號，value的值要連去和資料表的資料比對 *@
+            <form method="post" action="~/home/myLogin">
+                <div class="col-md-6 col-sm-6 special-grid " style="position:center">
+                    <h2><div id="error" style="color:red">@ViewBag.message</div></h2>
+                    <div class="member-login-info">
+                        <br />
+                        <br />
+                        <br />
+                        <h2>E-mail/帳號</h2>
+                        <input type="text" name="email" value="" required="" class="member-login-info-text" placeholder="電子信箱(EX.xxx@gmail.com)">
+                    </div>
+                    @* 密碼，value的值要連去和資料表的資料比對 *@
+                    <div class="member-login-info">
+                        <h2>密碼</h2>
+                        <input type="password" name="password" value="" required="" pattern="[A-Za-z0-9]{6,20}" maxlength="20" title="由英文或數字所組成的6~20字元" class="member-login-info-text" placeholder="由英文或數字所組成的6~20字元">
+                    </div>
+                    @* 確認按鈕，按下去要連線到資料庫比對會員email和密碼*@
+                    @*比對正確的話，controller有設一個布林變數isLogin，要從false變ture，然後_Layout.cshtml要改，然後網頁轉到Menu.cshtml *@
+                    <div class="member-login-info">
+                        <input class="btn btn-success" type="submit" name="send" required="" id="send" value="登入會員">
+                    </div>
+                    @*右邊放圖 *@
+                    <div class="col-md-6 col-sm-3 special-grid " style="position:fixed">
+                        <br />
+                        <img style="display:block; width:250%; height:450%" class="img-responsive" src="~/images/上菜了2.jpg" alt="image" />
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    function isLogin() {
+        alert("帳號密碼錯誤");
+        return false;
+    }
+</script>
+

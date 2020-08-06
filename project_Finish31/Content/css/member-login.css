@@ -1,0 +1,356 @@
+.member-login-box {
+    width: 600px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    font-size: 0;
+    box-sizing: border-box;
+    padding: 80px 0;
+}
+
+.member-page-btn-false {
+    width: 150px;
+    line-height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: #eee;
+    color: #888;
+    font-weight: bold;
+    position: relative;
+    transition: all .3s linear;
+}
+
+    .member-page-btn-false:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0%;
+        height: 1px;
+        background-color: #162148;
+        transition: all .3s linear;
+    }
+
+    .member-page-btn-false:hover {
+        background-color: #fff;
+        color: #162148;
+    }
+
+        .member-page-btn-false:hover:after {
+            width: 100%;
+        }
+
+.member-page-btn-box {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    pointer-events: none;
+}
+
+.member-page-btn {
+    width: 150px;
+    line-height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: #fff;
+    color: #162148;
+    font-weight: bold;
+    position: relative;
+    opacity: 0;
+}
+
+    .member-page-btn.active:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        background-color: #162148;
+    }
+
+    .member-page-btn.active {
+        opacity: 1;
+        pointer-events: inherit;
+    }
+
+.member-login-info-box {
+    width: 100%;
+    display: block;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 70px;
+    position: relative;
+    z-index: 2;
+    -webkit-filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.35));
+    filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.35))
+}
+
+.member-login-info {
+    margin-bottom: 25px;
+}
+
+.member-login-info-title {
+    font-size: 14px;
+    color: #162148;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+
+    .member-login-info-title i {
+        margin-right: 5px;
+    }
+
+.member-login-info:nth-child(1) .member-login-info-title i {
+    margin-left: 4px;
+    margin-right: 6px;
+}
+
+.member-login-info-text {
+    border: 1px solid #ddd;
+    height: 40px;
+    width: 100%;
+    background-color: #fff;
+    font-size: 14px;
+    box-sizing: border-box;
+    padding: 0 20px;
+    color: #888;
+    letter-spacing: 1px;
+    font-weight: lighter;
+    font-family: "微軟正黑體";
+}
+
+    .member-login-info-text::-webkit-input-placeholder {
+        font-family: "微軟正黑體";
+        color: #888;
+        font-weight: lighter;
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    .member-login-info-text:-moz-placeholder {
+        font-family: "微軟正黑體";
+        color: #888;
+        font-weight: lighter;
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+    .member-login-info-text::-moz-placeholder {
+        font-family: "微軟正黑體";
+        color: #888;
+        font-weight: lighter;
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+
+.member-login-btn button {
+    width: 100px;
+    line-height: 46px;
+    background-color: #162148;
+    display: inline-block;
+    color: #fff;
+    border: none;
+    letter-spacing: 2px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all .3s linear;
+}
+
+#member-login .member-login-btn button {
+    float: right;
+}
+
+.member-login-btn a {
+    font-size: 14px;
+    color: #ae8c4f;
+    letter-spacing: 1px;
+    transition: all .3s linear;
+}
+
+.member-login-btn-external {
+    text-align: center;
+    margin-top: 100px;
+}
+
+    .member-login-btn-external i {
+        margin-right: 3px;
+    }
+
+.member-login-btn-external-g {
+    width: 80px;
+    display: inline-block;
+    line-height: 36px;
+    color: #000;
+    vertical-align: middle;
+    background-color: #ddd;
+    margin-right: 20px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    transition: all .3s linear;
+}
+
+.member-login-btn-external-f {
+    width: 80px;
+    display: inline-block;
+    line-height: 36px;
+    color: #000;
+    vertical-align: middle;
+    background-color: #ddd;
+    font-size: 14px;
+    letter-spacing: 1px;
+    transition: all .3s linear;
+}
+
+/*---------member-forget----------*/
+
+#member-registered .member-login-btn {
+    text-align: center;
+}
+
+#member-registered .member-login-info-box {
+    padding: 50px 70px;
+}
+
+
+
+/*---------member-forget----------*/
+#member-forget .member-login-info:nth-child(3) .member-login-info-text {
+    width: 50%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.member-forget-info-img {
+    width: 50%;
+    display: inline-block;
+    height: 40px;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-right: none;
+    box-sizing: border-box;
+}
+
+#member-forget .member-login-btn {
+    text-align: center;
+}
+
+#member-forget .member-login-info-box {
+    padding: 30px 70px;
+}
+
+.member-change-verification {
+    display: block;
+    font-size: 12px;
+    margin-top: 10px;
+    color: #d0011b;
+    width: 100%;
+    text-align: right;
+}
+
+/*---------member-verification----------*/
+#member-registered-verification .member-login-box {
+    padding: 0;
+    height: calc(100vh - 84px);
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+    flex-direction: column;
+}
+
+#member-registered-verification .member-login-btn-re {
+    display: inline-block;
+    float: right;
+    text-align: right;
+}
+
+.member-verification-wait {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+/*--------hover-------*/
+.member-login-info-text:focus {
+    background-color: #efefef;
+}
+
+.member-login-btn button:hover {
+    background-color: #ae8f4c;
+}
+
+.member-login-btn a:hover {
+    color: #162148;
+}
+
+.member-login-btn-external-g:hover,
+.member-login-btn-external-f:hover {
+    background-color: #162148;
+    color: #fff;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .member-login-box {
+        width: 400px;
+        padding: 50px 0;
+    }
+
+    .member-login-info-box {
+        padding: 40px;
+    }
+
+    #member-registered .member-login-info-box {
+        padding: 20px 40px;
+    }
+
+    #member-forget .member-login-info-box {
+        padding: 20px 40px;
+    }
+
+    .member-login-info-text {
+        padding: 0 10px;
+    }
+
+    .member-login-btn button {
+        line-height: 36px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .member-login-box {
+        width: 300px;
+    }
+
+    .member-login-info-box {
+        padding: 20px;
+    }
+
+    #member-registered .member-login-info-box {
+        padding: 20px;
+    }
+
+    #member-forget .member-login-info-box {
+        padding: 20px;
+    }
+}
+/*animation*/
+
+@media only screen and (min-width: 1001px) {
+    .member-login-box {
+        opacity: 0;
+    }
+
+    .member-login-box {
+        animation: fade 1s ease 0s 1 both;
+    }
+}

@@ -1,0 +1,97 @@
+﻿
+@{
+    ViewBag.Title = "Special_LowGi";
+}
+
+<style>
+    .dataDiv {
+        width: 100%;
+        height: 100%;
+        background-color: white;
+        border: 1px;
+        border-style: solid;
+        border-color: darkgrey;
+        padding: 3px 3px 3px 20px;
+        margin: 3px;
+        font-size: larger;
+        text-align: left;
+    }
+
+    .dataDivT {
+        width: 100%;
+        height: 100%;
+        background-color: antiquewhite;
+        color: dimgray;
+        border: 1px;
+        border-style: solid;
+        border-color: darkgrey;
+        padding: 3px 3px 3px 20px;
+        margin: 3px;
+        font-size: larger;
+        text-align: left;
+    }
+</style>
+<div class="menu-box">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="special-menu text-center">
+                    <br />
+                    <br />
+                    <div>
+                        <h2 style="font-weight:bold;">
+                            <input class="btn btn-success" type="button" value="低GI飲食" onclick="location.href=' ~/Home/Special_LowGi'" />
+                            <input class="btn btn-success" type="button" value="低油脂飲食" onclick="location.href=' ~/Home/Special_LowFat'" />
+                            <input class="btn btn-success" type="button" value="低鈉飲食" onclick="location.href=' ~/Home/Special_LowNa'" />
+                        </h2>
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+        <div style="padding:0 10%;">
+            <div id="myDIV1" class="dataDivT" onclick="myFunction('myDIV2')">低GI飲食</div>
+            <div  id="myDIV2" class="dataDiv">
+                <h2>
+                    低GI飲食又稱「低胰島素飲食」或「低升糖指數飲食」，民眾接受度越來越高，營養師表示，低GI飲食是指讓食物在腸胃道慢慢吸收，如此一來人體的血糖濃度才不會快速上升，胰島素也不會大量分泌，進而達到控制血糖 、減重目標。
+                </h2>
+            </div>
+            <div id="myDIV3" class="dataDivT" onclick="myFunction('myDIV4')">低GI飲食原則</div>
+            <div style="display:none" id="myDIV4" class="dataDiv">
+                <h2>
+                    1.一飯：攝取優質低GI澱粉食物(糙米或五穀米）等全穀類為主食。<br /><br />
+                    2.二菜：每餐至少選擇三種不同顏色的蔬果（番茄、茄子、紅蘿蔔、菠菜）和攝取不同部位的蔬菜（葉菜、根莖、瓜果等）。<br /><br />
+                    3.三指肉：魚肉奶蛋（動物性蛋白質）和豆類（植物性蛋白質）。以三指幅寬大小為一份，一天肉類總份量以2-3分為限（約手掌大小），肉類以白肉（雞肉、魚肉）為優先，去皮去油挑瘦肉，清蒸水煮為佳。<br />
+                </h2>
+            </div>
+            <div id="myDIV5" class="dataDivT" onclick="myFunction('myDIV6')">低GI飲食的好處</div>
+            <div style="display:none" id="myDIV6" class="dataDiv">
+                <h2>
+                    1.較有飽足感且較不容易餓，可避免吃過量，有效減輕體重。<br />
+                    2.可降低血中胰島素值，來減少熱量產生及脂肪形成。<br />
+                    3.可降低三酸甘油脂、總膽固醇及LDL；提升HDL。<br />
+                    4.可協助管理好血糖值，降低得到心血管疾病、高血壓、糖尿病及其併發症的風險。<br />
+                    5.幫助學習及提高記憶力。<br />
+                </h2>
+            </div>
+            <div id="myDIV7" class="dataDivT" onclick="myFunction('myDIV8')">食物的升糖指數表</div>
+            <div style="display:none" id="myDIV8" class="dataDiv">
+                <img style="display:block; width:100%; height:100%" class="img-responsive" src="~/images/LowGi.png" alt="image" />
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script>
+    function myFunction(e) {
+        //if (document.getElementById("myDIV" + e).style.visibility == "hidden")
+        if (document.getElementById(e).style.display == "none") {
+            document.getElementById(e).style.display = "";
+        }
+        else {
+            document.getElementById(e).style.display = "none";
+        }
+    }
+</script>
